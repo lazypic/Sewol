@@ -30,6 +30,6 @@
 ### 2018.07.11
 - [해양수산부에서 제공하는 드론영상에 기반하여 3D 스캔을 통해 선체복구를 완료](https://www.youtube.com/watch?v=GPEKzKmHZlE)
 
-### 2018.0
+### 2018.07.22
 - [한강시민공원, 여유로운 늦은 오후](https://youtu.be/0yoKR-SPK98)
 - [위치](https://goo.gl/maps/gvFE5TFkgtM2)
