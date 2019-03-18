@@ -37,3 +37,7 @@
 ### 2018.07.22
 - [한강시민공원, 여유로운 늦은 오후](https://youtu.be/0yoKR-SPK98)
 - [위치](https://goo.gl/maps/gvFE5TFkgtM2)
+
+### 2018.07.28
+- [퇴근길 바삐 이동하는 차량](https://youtu.be/PZBWIA0TTgo)
+- [위치](https://goo.gl/maps/TANnjM2r1EC2)
