@@ -44,3 +44,15 @@
 ### 2018.07.28
 - [퇴근길 바삐 이동하는 차량](https://youtu.be/PZBWIA0TTgo)
 - [위치](https://goo.gl/maps/TANnjM2r1EC2)
+
+### 2018.09.20
+- [광화문, 주말, 집회소리, 세월호의 출발지](https://youtu.be/usqVCyyqMEw)
+- [위치](https://goo.gl/maps/8JFuUaAc4Z92)
+
+### 2018.11.26
+- [기차 안, 평화로운 바깥 풍경, 남쪽을 향하는 세월호](https://youtu.be/5ClRP7igTr4)
+- [위치]
+
+## 2018.03.04
+- [제주도, 석양에 물들어가는](https://youtu.be/9kRVxnP8QX0)
+- [위치](https://goo.gl/maps/wSie2zDPq912)
