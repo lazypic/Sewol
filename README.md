@@ -30,9 +30,6 @@
 - 무거운 파도 소리
 
 
-[photogrammetry 원본 미디어](https://www.youtube.com/watch?v=o0pCB_CBhv0) 자료제공_해양수산부
-
-
 
 ## 현상
 
@@ -68,3 +65,6 @@
 - [제주도, 석양에 물들어가는](https://youtu.be/9kRVxnP8QX0)
 - [위치](https://goo.gl/maps/wSie2zDPq912)
 
+## 출처
+
+- [photogrammetry 원본 미디어](https://www.youtube.com/watch?v=o0pCB_CBhv0) 자료제공_해양수산부
