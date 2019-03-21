@@ -68,3 +68,7 @@
 ## 출처
 
 - [photogrammetry 원본 미디어](https://www.youtube.com/watch?v=o0pCB_CBhv0) 자료제공_해양수산부
+
+## 데이터공유
+- s3://sewol.lazypic.org
+- 데이터를 활용하고 싶다면 이슈에 이메일을 남겨주세요.
