@@ -67,7 +67,7 @@
 - 위치 : SRT 라인 
 
 ### 2018.03.04
-~[2018.03.04](https://github.com/lazypic/Sewol/blob/master/images/2018.03.04.png?raw=true)
+![2018.03.04](https://github.com/lazypic/Sewol/blob/master/images/2018.03.04.png?raw=true)
 - [제주도, 석양에 물들어가는](https://youtu.be/9kRVxnP8QX0)
 - [위치](https://goo.gl/maps/wSie2zDPq912)
 
