@@ -81,7 +81,7 @@
 ![2019.03.04](https://github.com/lazypic/sewol/blob/master/images/2019.03.04.png?raw=true)
 - [제주도, 석양에 물들어가는](https://youtu.be/9kRVxnP8QX0)
 - [위치](https://goo.gl/maps/wSie2zDPq912)
-- SNS INSTAGRAM 반응과 현상  - 멋진, 앱 광고, 컬러, 세상, 날씨, 연말, 소통, 가격문의?
+- SNS INSTAGRAM 반응과 현상  - 놀러와, 안녕, 좋은하루, 구경, 즐거운, 소통
 ![2019.03.04](https://github.com/lazypic/sewol/blob/master/images/insta/2019.03.04.jpg?raw=true)
 
 ## 출처
