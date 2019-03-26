@@ -52,16 +52,22 @@
 ![2018.07.22](https://github.com/lazypic/Sewol/blob/master/images/2018.07.22.png?raw=true)
 - [한강시민공원, 여유로운 늦은 오후](https://youtu.be/0yoKR-SPK98)
 - [위치](https://goo.gl/maps/gvFE5TFkgtM2)
+- SNS INSTAGRAM 반응과 현상  - 소통, 구경
+![2018.07.22](https://github.com/lazypic/sewol/blob/master/images/insta/2018.07.22.jpg?raw=true)
 
 ### 2018.07.28
 ![2018.07.28](https://github.com/lazypic/Sewol/blob/master/images/2018.07.28.png?raw=true)
 - [퇴근길 바삐 이동하는 차량](https://youtu.be/PZBWIA0TTgo)
 - [위치](https://goo.gl/maps/TANnjM2r1EC2)
+- SNS INSTAGRAM 반응과 현상  - 행복한 하루
+![2018.07.28](https://github.com/lazypic/sewol/blob/master/images/insta/2018.07.28.jpg?raw=true)
 
 ### 2018.09.20
 ![2018.09.20](https://github.com/lazypic/Sewol/blob/master/images/2018.09.20.png?raw=true)
 - [광화문, 주말, 집회소리, 세월호의 출발지](https://youtu.be/usqVCyyqMEw)
 - [위치](https://goo.gl/maps/8JFuUaAc4Z92)
+- SNS INSTAGRAM 반응과 현상  - 소통, 인친, 심심, 구경, 생각, 예쁘다
+![2018.09.20](https://github.com/lazypic/sewol/blob/master/images/insta/2018.09.20.jpg?raw=true)
 
 ### 2018.11.26
 ![2018.11.26](https://github.com/lazypic/Sewol/blob/master/images/2018.11.26.png?raw=true)
