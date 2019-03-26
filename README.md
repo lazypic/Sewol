@@ -45,6 +45,8 @@
 ### 2018.07.11
 ![2018.07.11](https://github.com/lazypic/Sewol/blob/master/images/2018.07.11.gif?raw=true)
 - [해양수산부에서 제공하는 드론영상에 기반하여 3D 스캔을 통해 선체복구를 완료](https://www.youtube.com/watch?v=GPEKzKmHZlE)
+- SNS INSTAGRAM 반응과 현상  - 광고, 맞팔, 스토어 홍보, 카메라 기종 문의, 모델구인, 소통
+![2018.07.11](https://github.com/lazypic/sewol/blob/master/images/insta/2018.07.11.jpg?raw=true)
 
 ### 2018.07.22
 ![2018.07.22](https://github.com/lazypic/Sewol/blob/master/images/2018.07.22.png?raw=true)
