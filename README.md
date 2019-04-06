@@ -84,6 +84,13 @@
 - SNS INSTAGRAM 반응과 현상  - 놀러와, 안녕, 좋은하루, 구경, 즐거운, 소통
 ![2019.03.04](https://github.com/lazypic/sewol/blob/master/images/insta/2019.03.04.jpg?raw=true)
 
+### 2019.04.06
+![2019.03.04](https://github.com/lazypic/sewol/blob/master/images/20190406.jpg?raw=true)
+- [제주도,항구](https://youtu.be/9kRVxnP8QX0)
+- [위치](https://goo.gl/maps/ERVVGKUvgEk)
+- SNS INSTAGRAM 반응과 현상  - wip
+
+
 ## 출처
 
 - [photogrammetry 원본 미디어](https://www.youtube.com/watch?v=o0pCB_CBhv0) 자료제공_해양수산부
