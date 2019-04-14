@@ -89,7 +89,7 @@
 - [제주도,항구](https://youtu.be/27By5tgyq6E)
 - [위치](https://goo.gl/maps/ERVVGKUvgEk)
 - SNS INSTAGRAM 반응과 현상  - 좋은사진, 우연
-~[2019.04.07](https://github.com/lazypic/sewol/blob/master/images/insta/2019.04.07.jpg?raw=true)
+![2019.04.07](https://github.com/lazypic/sewol/blob/master/images/insta/2019.04.07.jpg?raw=true)
 
 
 ## 출처
